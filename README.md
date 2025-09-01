@@ -33,3 +33,12 @@ _italic_\
 
 x<sup>2</sup>\
 x<sub>69</sub>
+
+```c
+#include <stdio.h>
+
+int main() {
+	printf("Hello, World!");
+	return 0;
+}
+```
