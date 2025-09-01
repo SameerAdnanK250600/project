@@ -31,4 +31,5 @@ _italic_\
 >this is a project\
 >very nice formatting
 
-x<sup>2</sup>
+x<sup>2</sup>\
+x<sub>69</sub>
